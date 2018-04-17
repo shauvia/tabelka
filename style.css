@@ -1,0 +1,14 @@
+thead {
+  color: blueviolet;
+  background-color: darkturquoise;
+}
+
+.examples {
+      font-family: Arial;
+      color: maroon;
+      text-transform: uppercase;
+      font-family: cursive;
+      text-transform: capitalize;
+      color: rebeccapurple !important;
+}
+
