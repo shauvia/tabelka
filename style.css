@@ -1,7 +1,41 @@
 thead {
-  color: blueviolet;
-  background-color: darkturquoise;
+  color: black;
+  background-color:burlywood;
+  font-family: Arial;
+
 }
+
+tbody {
+  color: black;
+  background-color: beige;
+  font-family: Arial;
+}
+
+tfoot {
+  color: black;
+  font-family: Arial;
+  font-weight: bold;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: thin solid black;
+}
+
+.invisible {
+  border-style: none;
+}
+
+.footer {
+  background-color: burlywood;
+}
+
+
+
+
 
 .examples {
       font-family: Arial;
