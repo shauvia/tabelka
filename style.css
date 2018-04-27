@@ -2,7 +2,6 @@ thead {
   color: black;
   background-color:burlywood;
   font-family: Arial;
-
 }
 
 tbody {
@@ -23,6 +22,7 @@ table {
 
 th, td {
   border: thin solid black;
+  padding: 6px;
 }
 
 .invisible {
